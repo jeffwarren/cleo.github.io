@@ -4,5 +4,3 @@ Welcome to the Jeff Warren GitHub site!
 
 Learn more about: 
 - [JavaDocs](/JavaDocs/index.md)
-- [EDI Tracker](/EDITracker/index.md)
-
