@@ -3,6 +3,6 @@
 Welcome to the Jeff Warren GitHub site!
 
 Learn more about: 
-- [JavaDocs](/JavaDocs/index.html)
-- [EDI Tracker](/EDITracker/index.html)
+- [JavaDocs](/JavaDocs/index.md)
+- [EDI Tracker](/EDITracker/index.md)
 
