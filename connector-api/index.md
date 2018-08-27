@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Welcome to Java Docs
+title: Welcome to connector-api.jar
 ---
-## Welcome to Java Docs
+## Welcome to connector-api.jar
 
-The Cleo Java Docs allows you to see information about each available Java class and interface.. 
+The connector-api.jar allows you to build your own connectors.
 
 - [5.6-SNAPSHOT](/connector-api/5.6-SNAPSHOT/connector-api-5.6-SNAPSHOT.jar)
 
